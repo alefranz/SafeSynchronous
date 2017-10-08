@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <Description>Helper to safely run a Task from a codebase not async.</Description>
+    <Authors>Alessio Franceschelli</Authors>
+    <PackageTags>task async await synchronous run</PackageTags>
+    <PackageLicenseUrl>https://github.com/alefranz/SafeSynchronous/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/alefranz/SafeSynchronous</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/alefranz/SafeSynchronous.git</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+
+    <TargetFrameworks>netstandard1.0;net45</TargetFrameworks>
+  </PropertyGroup>
+
+</Project>
